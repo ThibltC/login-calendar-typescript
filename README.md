@@ -2,11 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Tools
 
-[NextJS](https://nextjs.org/docs)
-[MaterialUI](https://mui.com/material-ui/getting-started/overview/)
-[React-date-pickers](https://mui.com/x/react-date-pickers/getting-started/)
-[Dayjs](https://day.js.org/docs/en/installation/installation)
-[NextAuth](https://next-auth.js.org/)
+[NextJS](https://nextjs.org/docs)  
+[MaterialUI](https://mui.com/material-ui/getting-started/overview/)  
+[React-date-pickers](https://mui.com/x/react-date-pickers/getting-started/)  
+[Dayjs](https://day.js.org/docs/en/installation/installation)  
+[NextAuth](https://next-auth.js.org/)  
 
 ## Getting Started
 
