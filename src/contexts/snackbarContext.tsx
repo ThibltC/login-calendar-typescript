@@ -1,4 +1,4 @@
-import { createContext, ReactElement, ReactNode, useReducer } from "react";
+import { createContext, ReactElement, useReducer } from "react";
 import snackbarReducer, {
   snackbarInitialState,
 } from "../reducers/snackbarReducer";
